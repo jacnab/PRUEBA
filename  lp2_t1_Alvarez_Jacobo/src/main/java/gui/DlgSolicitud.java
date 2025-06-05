@@ -334,6 +334,6 @@ public class DlgSolicitud extends JDialog implements ActionListener {
 		habilitarEntradas(false);
 		habilitarBotones(true);
 	}
-	//para probar
+	//para probar de nuevo
 }
 
